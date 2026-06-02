@@ -1,0 +1,5 @@
+- **Thuộc tính chất lượng (quality attribute):** Hệ thống làm tốt đến mức nào trong điều kiện cụ thể
+- **Yêu cầu ảnh hưởng đến kiến trúc (ASR):** yêu cầu có thể làm đổi cấu trúc, công nghệ hoặc cách vận hành ^d19574
+- **Kịch bản chất lượng (Quality attribute scenario):** bối cảnh, phản ứng mong muốn và thước đo
+- **Chiến thuật kiến trúc (tactic):** cách thiết kế cụ thể để đạt chất lượng
+- **Đánh đổi (trade-off):** cải thiện một mặt = khó mặt khác
